@@ -1,4 +1,4 @@
-### Oie, aqui é a Cinthya, estudante da Trybe!
+### Oie, aqui é a Cinthya
 <div align="center">
   <a href="https://github.com/cinthya-morales">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cinthya-morales&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
